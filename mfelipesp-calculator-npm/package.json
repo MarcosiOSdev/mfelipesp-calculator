@@ -1,0 +1,12 @@
+{
+  "name": "mfelipesp-calculator-npm",
+  "version": "1.0.2",
+  "description": "My first module for Pos-Graduate",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Felipe",
+  "license": "ISC",
+  "keywords": ["pos", "calculator", "first-publish", "mfelipesp", "markim"]
+}
