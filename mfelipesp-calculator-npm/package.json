@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcosiOSdev/mfelipesp-calculator.git"
+  },
   "author": "Marcos Felipe",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "keywords": ["pos", "calculator", "first-publish", "mfelipesp", "markim"]
 }

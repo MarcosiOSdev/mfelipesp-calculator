@@ -6,9 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcosiOSdev/mfelipesp-calculator.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
     "mfelipesp-calculator-npm": "file:mfelipesp-calculator-npm"
   }
